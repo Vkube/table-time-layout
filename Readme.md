@@ -45,3 +45,4 @@
 
 Финальным результатом будет следующий макет:
 <img src='./__tests__/__image_snapshots__/index-test-js-to-do-table-template-with-a-viewport-of-1280-px-1-snap.png'>
+<a href='http://table-time-layout.surge.sh' target='_blank'>Demo</a>
